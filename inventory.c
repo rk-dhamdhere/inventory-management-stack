@@ -4,7 +4,7 @@
 
 #define MAX_NAME 64
 
-// Single inventory batch node
+// Single inventory batch nodes
 typedef struct Node {
     int id;
     char name[MAX_NAME];
